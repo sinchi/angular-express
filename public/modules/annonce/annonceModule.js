@@ -1,0 +1,1 @@
+angular.module('app.annonce', ['app.annonce.controller']);

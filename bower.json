@@ -1,0 +1,9 @@
+{
+  "name": "afrique_annonce",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "~1.2",
+    "bootstrap": "~3.3.5",
+    "angular-ui-router": "~0.2.15"
+  }
+}
